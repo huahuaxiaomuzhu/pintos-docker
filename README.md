@@ -5,3 +5,5 @@
   docker run -idt -p 8080:8080 huahuaxiaomuzhu/huahuapintos
 ```
 打开浏览器 127.0.0.1:8080 就可以看到
+
+# 记得把qemu修改为bochs！！
