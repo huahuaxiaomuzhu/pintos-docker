@@ -15,3 +15,5 @@ apt-get install git
 ```
 ## 安装扩展
 去https://open-vsx.org/ 下载vsix文件，上传到你的code-server，右键安装即可。
+## FAQ
+-- 解决perl: warning: Setting locale failed.  在～/.bashrc中添加一句话 export LC_ALL=C 然后source ~/.bashrc
