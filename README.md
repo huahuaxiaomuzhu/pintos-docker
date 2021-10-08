@@ -8,3 +8,8 @@
 
 # 记得把qemu修改为bochs！！
 (要不然你make check的时候会全都挂掉的)
+## 顺带一提
+如果有一些你需要的工具没有安装的话，请使用apt-get自行安装，如：
+```
+apt-get install git
+```
